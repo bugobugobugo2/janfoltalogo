@@ -1,2 +1,9 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"><style>tspan{white-space:pre}.a{font-size: 96px;fill: #000000;font-weight: 400;font-family: "Recoleta-RegularDEMO", "Recoleta DEMO"}</style><text style="transform:matrix(1,0,0,1,13,78)" ><tspan x="0" y="0" class="a">J</tspan><tspan  y="0" class="a">a</tspan><tspan  y="0" class="a">n</tspan><tspan  y="0" class="a"> </tspan><tspan  y="0" class="a">F</tspan><tspan  y="0" class="a">o</tspan><tspan  y="0" class="a">l</tspan><tspan  y="0" class="a">t</tspan><tspan  y="0" class="a">a
-</tspan></text></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 96">
+  <style>
+    tspan { white-space:pre }
+    .a { font-size: 96px; fill: #000000; font-weight: 400; font-family: "Recoleta-RegularDEMO", "Recoleta DEMO" }
+  </style>
+  <text>
+    <tspan x="0" y="78" class="a">Jan Folta</tspan>
+  </text>
+</svg>
